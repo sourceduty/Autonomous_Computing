@@ -33,6 +33,10 @@ Overall, Autonomous Computing offers the scientific community a powerful tool to
 [Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
 <br>
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
+<br>
+[Search Programmer](https://github.com/sourceduty/Search_Programmer)
+<br>
+[Decision Automation](https://github.com/sourceduty/Decision_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
