@@ -25,6 +25,14 @@ Overall, Autonomous Computing offers the scientific community a powerful tool to
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
+<br>
+[Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
